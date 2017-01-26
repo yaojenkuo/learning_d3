@@ -2,21 +2,26 @@
 
 This is the repository for learning d3.js.
 
-## 開發環境
+## Development Environment
 
-- Brackets 編輯器
+- Brackets editor
 - Node.js server
+- Python server
 
-## HTML 基礎
+## HTML
 
-- SVG
+- SVG(W3School)
 
-## JavaScript 基礎
+## CSS
 
-- JavaScript GitBook（陳鍾誠）
-- JavaScript（Codecademy）
-- JavaScript（Treehouse）
+- Selector(W3School)
 
-## d3.js 基礎
+## JavaScript
 
-## d3.js 實戰
+- JavaScript(Written by 陳鍾誠)
+- JavaScript(Codecademy)
+- JavaScript(Treehouse)
+
+## d3.js Basic
+
+## d3.js in Action
