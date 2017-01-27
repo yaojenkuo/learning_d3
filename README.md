@@ -5,7 +5,7 @@ This is the repository for learning d3.js.
 ## Development Environment
 
 - Brackets editor
-- Node.js server
+- [Node.js](https://github.com/yaojenkuo/learning_d3/blob/master/dev_env/nodejs.md)
 - Python server
 
 ## HTML
