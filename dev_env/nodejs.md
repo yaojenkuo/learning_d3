@@ -1,6 +1,10 @@
 # Installation of node.js
 
-## Homebrew
+## Through Installer
+
+<https://nodejs.org/en/download/>
+
+## Through Homebrew
 
 ### Install Homebrew
 
@@ -20,7 +24,7 @@ brew update
 export PATH="/usr/local/bin:$PATH"
 ```
 
-## Nodejs and npm
+### Nodejs and npm
 
 ```sh
 brew install node
