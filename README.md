@@ -4,21 +4,20 @@ This is the repository for learning d3.js.
 
 ## Development Environment
 
-- Brackets editor
+- [Brackets editor](http://brackets.io/)
 - [Node.js](https://github.com/yaojenkuo/learning_d3/blob/master/dev_env/nodejs.md)
-- Python server
 
 ## HTML
 
-- SVG(W3School)
+- SVG
 
 ## CSS
 
-- Selector(W3School)
+- DOM Selector
 
 ## JavaScript
 
-- JavaScript(W3School)
+- [Variable types](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch1.md)
 
 ## d3.js Basic
 
@@ -26,4 +25,6 @@ This is the repository for learning d3.js.
 
 ## Reference
 
+- [HTML5 SVG](http://www.w3schools.com/html/html5_svg.asp)
 - [專為中學生寫的 JavaScript 程式書](https://ccckmit.gitbooks.io/javascript/content/)
+- [JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
