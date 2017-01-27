@@ -8,7 +8,5 @@
 
 Type in these commands in Terminal to check if the installation successed.
 
-```
 $ node -v
 $ npm -v
-```
