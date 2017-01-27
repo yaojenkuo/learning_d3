@@ -18,9 +18,8 @@ This is the repository for learning d3.js.
 
 ## JavaScript
 
-- JavaScript(Written by 陳鍾誠)
-- JavaScript(Codecademy)
-- JavaScript(Treehouse)
+- [專為中學生寫的 JavaScript 程式書](https://ccckmit.gitbooks.io/javascript/content/)
+- JavaScript(W3School)
 
 ## d3.js Basic
 
