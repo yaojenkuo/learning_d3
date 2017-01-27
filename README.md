@@ -18,9 +18,12 @@ This is the repository for learning d3.js.
 
 ## JavaScript
 
-- [專為中學生寫的 JavaScript 程式書](https://ccckmit.gitbooks.io/javascript/content/)
 - JavaScript(W3School)
 
 ## d3.js Basic
 
 ## d3.js in Action
+
+## Reference
+
+- [專為中學生寫的 JavaScript 程式書](https://ccckmit.gitbooks.io/javascript/content/)
