@@ -17,7 +17,8 @@ This is the repository for learning d3.js.
 
 ## JavaScript
 
-- [Variable types](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch1.md)
+- [Variable Types](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch1.md)
+- [If and Loops](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch2.md)
 
 ## d3.js Basic
 
