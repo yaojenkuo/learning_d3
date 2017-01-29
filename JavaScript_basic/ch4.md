@@ -93,9 +93,3 @@ function square(x) {
 
 console.log(map(square, [3, 1, 5, 4, 2]))
 ```
-
-## Callback
-
-```js
-
-```
