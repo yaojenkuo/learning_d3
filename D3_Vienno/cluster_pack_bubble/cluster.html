@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>D3 Vienno - Tree Layout Part 2</title>
+    <title>D3 Vienno - Cluster</title>
     <script src="https://d3js.org/d3.v3.min.js"></script>
     </head>
     
@@ -12,7 +12,7 @@
                 .append("g")
                     .attr("transform", "translate(50, 50)");
             
-            var tree = d3.layout.tree()
+            var tree = d3.layout.cluster()
                 .size([400, 400]);
             
             d3.json("mydata.json", function(data){
