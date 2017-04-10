@@ -26,8 +26,6 @@ This is the repository for learning d3.js.
 
 ## d3.js Basic
 
-- Be Selective
-
 ## d3.js in Action
 
 ## Reference
@@ -36,3 +34,7 @@ This is the repository for learning d3.js.
 - [專為中學生寫的 JavaScript 程式書](https://ccckmit.gitbooks.io/javascript/content/)
 - [Learning JavaScript Data Structures and Algorithms](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms)
 - [JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+- [Eloquent JavaScrpt](http://eloquentjavascript.net/)
+- [D3.js tutorials](https://www.youtube.com/playlist?list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p)
+- [Introduction to D3 by Curran Kelleher](https://youtu.be/8jvoTV54nXw)
+- [Beau teaches JavaScript: Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
