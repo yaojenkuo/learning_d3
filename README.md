@@ -24,9 +24,7 @@ This is the repository for learning d3.js.
 
 ## Learning JavaScript Data Structures and Algorithms
 
-## d3.js Basic
-
-## d3.js in Action
+## d3.js
 
 ## Reference
 
