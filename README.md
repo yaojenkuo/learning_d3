@@ -10,13 +10,36 @@ This is the repository for learning d3.js.
 ## HTML
 
 - SVG
+    - rect
+    - circle
+    - line((x1, y1) to (x2, y2))
+    - path(Mx1 y1 Lx2 y2)
+    - g element
+    - pseudo scatterplot
+    - pseudo bar chart
+    - pseudo line chart
+    - text
 
 ## CSS
 
-- DOM Selector
+- em unit
+- Selector syntax
+    - class
+    - id
+- Google Fonts
 
 ## JavaScript Basic
 
+- Open the console(cmd + alt + i)
+- Numbers
+- Strings
+- Concatenate(+)
+- parseFloat() or `+`
+- Arrays
+- Objects(JSON)
+- Array of objects
+- Function
+- forEach()
 - [Variable Types](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch1.md)
 - [If and Loops](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch2.md)
 - [Arrays and Strings](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch3.md)
