@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.8.0/d3.min.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Loading CSV Data</title>
+</head>
+<body>
+<script>
+    var type = function(d){
+        d.x = parseFloat(d.x);
+        d.y = parseFloat(d.y);
+        return d;
+    };
+    
+    d3.csv("data.csv", type, function(myArrayOfObjects){
+       myArrayOfObjects.forEach(function(d){
+           console.log(d.x + d.y);
+           //console.log(d.x + ', ' + d.y);
+       });
+    });
+    
+</script>
+</body>
+</html>
