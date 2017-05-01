@@ -45,9 +45,9 @@ This is the repository for learning d3.js.
 - [Arrays and Strings](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch3.md)
 - [Functions](https://github.com/yaojenkuo/learning_d3/blob/master/JavaScript_basic/ch4.md)
 
-## Learning JavaScript Data Structures and Algorithms
-
 ## d3.js
+
+- `d3.csv()`
 
 ## Reference
 
