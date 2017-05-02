@@ -47,7 +47,19 @@ This is the repository for learning d3.js.
 
 ## d3.js
 
-- `d3.csv()`
+- Basic Functions and Methods
+    - `d3.csv()`
+    - Method Chaining
+    - `d3.scaleLinear().domain().range()`
+    - `d3.scaleOrdinal().domain().range()`
+    - `d3.scalePoint().domain().range()`
+    - `d3.scalePoint().domain().rangeRound()`
+- DOM Construction
+    - `d3.select("body").append("svg").attr("width", ...).attr("height", ...)`
+    - `svg.append().attr().attr()...`
+    - `enter()`
+    - Passing scale as a function
+    - Splitting data binding and `enter()`
 
 ## Reference
 
